@@ -7,9 +7,8 @@ IrisDMA Free Spoofer is a lightweight C++ Windows tool that uses AMI to spoof SM
 
 - Automatically downloads AMIDEWIN tools to the temp directory
 - Spoofs a wide range of SMBIOS fields using randomized serials
-- Terminates known anti-cheat and game-related processes
-- Cleans up all dropped files after spoofing
-- Sets a custom console title for branding
+- Terminates known anticheat related processes
+- Cleans up all files after spoofing
 
 ---
 
