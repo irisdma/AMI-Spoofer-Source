@@ -1,6 +1,5 @@
 # AMI-Spoofer-Source
 IrisDMA Free Spoofer is a lightweight C++ Windows tool that uses AMI to spoof SMBIOS serials and other system identifiers.
-
 ---
 
 ## Features
@@ -51,7 +50,7 @@ IrisDMA Free Spoofer is a lightweight C++ Windows tool that uses AMI to spoof SM
 2. Run as administraitor
 
 ### Optional
-
+Supported Motherboards: AsRock / MSI / Gigabyte / ASUS / Microstar / Biostar / Lenovo
 To disable warnings about `system()` and similar functions, add this at the top of your file:
 
 ```cpp
